@@ -10,7 +10,7 @@
 
 
 
-![](/Users/lucius/Documents/assets/bc3-clipboard-ui.png)
+![](./assets/bc3-clipboard-ui.png)
 
 
 

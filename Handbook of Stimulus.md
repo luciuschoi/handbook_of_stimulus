@@ -161,7 +161,7 @@ David Heinemeier Hansson
 
 
 
-![](/Users/lucius/Documents/assets/remix_on_glitch.png)
+![](./assets/remix_on_glitch.png)
 
 
 
@@ -397,7 +397,7 @@ export default class extends Controller {
 
 **Basecamp**의 UI 전체에 다음과 같은 버튼들이 있습니다.
 
-![](/Users/lucius/Documents/assets/bc3-clipboard-ui.png)
+![](./assets/bc3-clipboard-ui.png)
 
 이 버튼 중 하나를 클릭하면 **Basecamp**가 URL 또는 이메일 주소와 같은 텍스트를 클립 보드에 복사합니다.
 

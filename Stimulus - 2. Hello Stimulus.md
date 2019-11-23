@@ -16,7 +16,7 @@
 
 
 
-![](/Users/lucius/Documents/assets/remix_on_glitch.png)
+![](./assets/remix_on_glitch.png)
 
 
 
